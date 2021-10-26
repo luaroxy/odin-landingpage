@@ -126,3 +126,30 @@ button{
     font-weight: bolder;
     text-align: center;
 }
+
+.section4{
+    display: flex;
+    background:#3882F6;
+    border-radius: 8px;
+    margin: 100px 220px 100px 220px;
+    padding: 50px 80px 50px 80px;
+    justify-content: space-between;
+    color: #F9FAF8;
+}
+
+.buttonsec4{
+    border: 3px solid #F9FAF8;
+}
+
+.bigger{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.footer{
+    background: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
